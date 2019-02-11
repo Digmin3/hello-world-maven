@@ -40,7 +40,7 @@ public class App
         System.out.println("Introduce números. El cero para salir");
         System.out.println("Introduce números. El cero para salir");
         System.out.println("Introduce números. El cero para salir");
-        
+        System.out.println("Introduce números. El cero para salir");
         
          
         do {			
